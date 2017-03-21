@@ -25,7 +25,7 @@ SECRET_KEY = 'f$6ktg5jgal61c$(ootkx%=959_i_-kbct%6(*1#-0%837!*5='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tekkenke.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
